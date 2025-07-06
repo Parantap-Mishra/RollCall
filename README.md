@@ -81,6 +81,16 @@ Make sure your webcam is connected and working.
 
 ---
 
+## Screenshots
+
+![Screenshot 2025-07-06 112809](https://github.com/user-attachments/assets/57d4e9a4-3328-4806-9821-27cf41648ee5)
+![Screenshot 2025-07-06 113049](https://github.com/user-attachments/assets/44a50998-82fe-4993-81e4-30aacb2cef0a)
+![Screenshot 2025-07-06 113112](https://github.com/user-attachments/assets/95ccb758-f754-47db-8ad2-b675d3453ccd)
+
+Excel sheet created by program for attendance
+![Screenshot 2025-07-06 113219](https://github.com/user-attachments/assets/ce658406-7e2c-46e0-a119-574bb42e136b)
+
+
 
 ## 🎯 Use Case & Vision
 
